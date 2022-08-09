@@ -14,5 +14,5 @@ It's simple project made fir school project back in 2019.
 ![](VP_Documentation/GameObject.jpg)
 ![](VP_Documentation/NPC.jpg)
 ![](VP_Documentation/Tile.jpg)
-![](VP_Documentation/Sequence Diagram.jpg)
+![](VP_Documentation/Sequence_Diagram.jpg)
 
